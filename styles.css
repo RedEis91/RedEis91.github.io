@@ -1,0 +1,154 @@
+body {
+    background-color: #121212;
+}
+
+footer {
+    margin-top: 2%;
+    font-family: sans-serif;
+    text-align: center;
+    color: #a8a8a8;
+    font-size: 10px;
+    background-color: #171717;
+    
+}
+
+footer a {
+    color: #bb000d;
+    text-decoration: underline;
+}
+
+.logo,
+.banner {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.header {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#centerpiece {
+    max-width: 67%;
+    margin-top: 2%;
+    border: 1px solid #4f4f4f;
+    border-radius: 1px;
+    background-color: #282828;
+}
+
+#form {
+    background-color: #d10017;
+    height: 100%;
+    color: white;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 11px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10%;
+}
+
+#form p {
+    margin-left: 1%;
+}
+
+input {
+    box-sizing: border-box;
+    margin: 0;
+    border-radius: 5px;
+    margin-top: -2%;
+    margin-bottom: 2%;
+    min-height: 125%;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+select {
+    min-width: 100%;
+}
+
+.left {
+    max-width: 100%;
+    /*    float: left;*/
+}
+
+#nameLeft {
+    display: inline-block;
+    float: left;
+    min-width: 40%;
+    max-width: 49%;
+}
+
+#nameRight {
+    display: inline-block;
+    float: right;
+    min-width: 40%;
+    max-width: 49%;
+}
+
+.freeQuote {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 1%;
+}
+
+.button {
+    min-height: 25%;
+    min-width: 25;
+    max-height: 50%;
+    max-width: 35%;
+    display: block;
+    align-content: center;
+    margin: 10%;
+    margin-left: 54px;
+}
+
+.dropdown {
+    align-content: center;
+    max-width: 100%;
+}
+
+h4 {
+    font-family: 'Arial Black';
+    font-size: 11px;
+    font-weight: 400;
+    text-shadow: none;
+}
+
+li {
+    text-shadow: none;
+    text-decoration: underline;
+    font-size: 9px;
+    
+}
+
+ul {
+    padding-top: 5%;
+    padding-left: 0;
+}
+
+.inYourArea {
+    max-height: 100%;
+    max-width: 100%;
+}
+/*
+.quote {
+    background-color: #454545;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 2%;
+    border: 1px solid #4f4f4f;
+    border-radius: 1px;
+}
+
+blockquote {
+    border-left: none;
+    font-size: 12px;
+}
+
+#ray {
+    float: right;
+    margin-top: -9%;
+    padding-right: 2%;
+    padding-right: 2%;
+    font-size: 11px;
+}*/
